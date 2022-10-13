@@ -46,7 +46,7 @@
 <hr/>
 <h3 align="left">Languages and Tools:</h3>
 
-<p>
+<div>
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="padding:8px"/>
 
@@ -76,4 +76,4 @@
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" style="padding:8px"/>
 
-</p>
+</div>
