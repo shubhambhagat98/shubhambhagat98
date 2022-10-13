@@ -47,7 +47,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <br/>
 
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="padding-right:8px; padding-top:16px"/>
+<p align="left">
+
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="padding-right:8px; padding-top:8px"/>
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="padding-right:8px; padding-top:8px"/>
 
@@ -74,3 +76,5 @@
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="padding-right:8px; padding-top:8px"/>
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" style="padding-right:8px; padding-top:8px"/>
+
+</p>
