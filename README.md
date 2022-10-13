@@ -27,16 +27,16 @@
 <h2 align="center">Connect Me !! 🤝</h2>
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/shubhambhagat98/">
+	<a href="https://www.linkedin.com/in/shubhambhagat98/" target="_blank" >
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-        <a href="https://shubhambhagat.com">
+        <a href="https://shubhambhagat.com" target="_blank">
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
-        <a href="mailto:shubhambhagat98@gmail.com">
+        <a href="mailto:shubhambhagat98@gmail.com" target="_blank">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
-    <a href="https://www.instagram.com/shubham_0898/">
+    <a href="https://www.instagram.com/shubham_0898/" target="_blank">
 		<img src="https://img.shields.io/badge/Instagram-EA4C89?style=for-the-badge&logo=instagram&logoColor=white" />
 	</a>
 </p>
