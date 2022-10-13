@@ -1,7 +1,7 @@
 [![MasterHead](./media/header.png)](https://shubhambhagat.com)
 
 <h1 align="center">Hi 👋, I'm Shubham Bhagat</h1>
-<h3 align="center">Software Developer  | Music Producer | Sketch Artist</h3>
+<h3 align="center">Software Developer  |  Music Producer  |  Sketch Artist</h3>
 
 <br/>
 
