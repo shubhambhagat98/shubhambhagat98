@@ -24,7 +24,7 @@
 <br/>
 
 <br/>
-<h2 align="center">Connect Me !! 🤝</h2>
+<h2 align="center">Connect with me !! 🤝</h2>
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/shubhambhagat98/">
@@ -46,7 +46,7 @@
 <hr/>
 <h3 align="left">Languages and Tools:</h3>
 <br/>
-<div align="left" style="display: flex; flex-direction:row; flex-wrap: wrap;gap: 20px;">
+<div style="display: flex; flex-direction:row; flex-wrap: wrap;gap: 20px;">
 
 <div><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a></div>
 
