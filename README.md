@@ -6,7 +6,7 @@
 <br/>
 
 <p>
-    <img align="right" alt="Coding" width="300" src="./media/coding.png" />
+    <img align="right" alt="Coding" width="280" src="./media/coding.png" />
 
 📖 Pursuing Master's in Computer Science at Indiana University Bloomington
 
