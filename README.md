@@ -24,19 +24,19 @@
 <br/>
 
 <br/>
-<h2 align="center">Connect Me !! 🤝</h2>
+<h2 align="center">Connect with me !! 🤝</h2>
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/shubhambhagat98/" target="_blank" >
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
-        <a href="https://shubhambhagat.com" target="_blank">
+        <a href="https://shubhambhagat.com" target="_blank" >
 		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
 	</a>
-        <a href="mailto:shubhambhagat98@gmail.com" target="_blank">
+        <a href="mailto:shubhambhagat98@gmail.com" target="_blank" >
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
-    <a href="https://www.instagram.com/shubham_0898/" target="_blank">
+    <a href="https://www.instagram.com/shubham_0898/" target="_blank" >
 		<img src="https://img.shields.io/badge/Instagram-EA4C89?style=for-the-badge&logo=instagram&logoColor=white" />
 	</a>
 </p>
@@ -59,7 +59,7 @@
 
 <img align="left" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" style="padding-right:8px; padding-top:8px"/>
 
-<img align="left" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" style="padding-right:8px; padding-top:8px"/>
+<img align="left" src="./media/flask__logo.svg" alt="flask" width="40" height="40" style="padding-right:8px; padding-top:8px"/>
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"  style="padding-right:8px; padding-top:8px"/>
 
