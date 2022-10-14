@@ -10,7 +10,7 @@
 
 📖 Pursuing Master's in Computer Science at Indiana University Bloomington
 
-🧑🏻‍💻 Currently working on [Glimpse](https://github.com/shubhambhagat98/Glimpse) - An Ai powered news reading app
+🧑🏻‍💻 Currently working on [Glimpse](https://github.com/shubhambhagat98/Glimpse) - An AI powered news reading app
 
 🧐 Currently learning AWS Cloud Services, Next.js, and Redux
 
