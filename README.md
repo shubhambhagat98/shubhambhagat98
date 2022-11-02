@@ -12,7 +12,7 @@
 
 🧑🏻‍💻 Currently working on [Glimpse](https://github.com/shubhambhagat98/Glimpse) - An AI powered news reading app
 
-🧐 Currently learning AWS Cloud Services, Next.js, and Redux
+🧐 Currently learning React Native, Next.js and Zustand
 
 💡 Always open to collaborating on projects and innovative ideas.
 
