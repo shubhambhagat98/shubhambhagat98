@@ -8,11 +8,11 @@
 <p>
     <img align="right" alt="Coding" width="300" src="./media/coding.png" />
 
-📖 Pursuing Master's in Computer Science at Indiana University Bloomington
+📖 Pursuing Master's in Computer Science at Indiana University Bloomington.
 
-🧑🏻‍💻 Checkout my recent project [Glimpse](https://github.com/shubhambhagat98/Glimpse) - An AI powered voice-assisted news app
+🧑🏻‍💻 Check out my recent project [Glimpse](https://github.com/shubhambhagat98/Glimpse) - An AI powered voice-assisted news app.
 
-🧐 Currently learning React Native, Next.js and Zustand
+🧐 Currently learning React Native, Next.js and Zustand.
 
 💡 Always open to collaborating on projects and innovative ideas.
 
