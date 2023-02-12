@@ -12,7 +12,7 @@
 
 🧑🏻‍💻 Check out [Glimpse](https://github.com/shubhambhagat98/Glimpse) - An AI powered voice-assisted news app.
 
-🧐 Currently learning React Native, Next.js and Zustand.
+🧐 Currently learning React Query, Next.js and Zustand.
 
 💡 Always open to collaborating on projects and innovative ideas.
 
