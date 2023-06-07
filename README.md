@@ -8,7 +8,7 @@
 <p>
     <img align="right" alt="Coding" width="300" src="./media/coding.png" />
 
-📖 Computer Science Graduate from Indiana University Bloomington.
+📖 Computer Science graduate from Indiana University Bloomington.
 
 🧑🏻‍💻 Check out [Glimpse](https://github.com/shubhambhagat98/Glimpse) - An AI powered voice-assisted news app.
 
